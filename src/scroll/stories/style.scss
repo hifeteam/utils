@@ -1,0 +1,18 @@
+body {
+  overflow: hidden;
+}
+
+.scroll-box {
+  width: 500px;
+  height: 500px;
+  overflow: auto;
+  padding: 20px;
+}
+
+.scroll-box-content {
+  height: 3000px;
+}
+
+.float-right {
+  float: right;
+}
