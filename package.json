@@ -1,5 +1,5 @@
 {
-  "name": "utils",
+  "name": "@hife/utils",
   "version": "0.1.0",
   "description": "utils",
   "main": "index.js",
