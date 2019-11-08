@@ -1,3 +1,7 @@
+/**
+ * 禁止 dom 节点滚动
+ * @param dom dom 节点
+ */
 const disableScroll = (dom: HTMLElement = document.body) => {
   const domStyle: CSSStyleDeclaration = getComputedStyle(dom);
   const overflowArr = domStyle.overflow.split(' ');

@@ -1,7 +1,12 @@
 import disableScroll from './disableScroll';
 import enableScroll from './enableScroll';
 
-const scroll = {
+export interface ScrollInterface {
+  disableScroll: typeof disableScroll;
+  enableScroll: typeof enableScroll;
+}
+
+const scroll: ScrollInterface = {
   disableScroll,
   enableScroll
 };
