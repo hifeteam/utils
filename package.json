@@ -1,8 +1,8 @@
 {
   "name": "@hife/utils",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "utils",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "start": "start-storybook",
     "dev": "start-storybook",
@@ -19,6 +19,9 @@
     "url": "https://github.com/hifeteam/utils/issues"
   },
   "homepage": "https://github.com/hifeteam/utils#readme",
+  "files": [
+    "lib/**"
+  ],
   "devDependencies": {
     "@babel/core": "^7.6.4",
     "@hife/catui": "^1.13.1",
