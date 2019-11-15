@@ -5156,10 +5156,10 @@ he@^1.2.0:
   resolved "https://registry.npm.taobao.org/he/download/he-1.2.0.tgz#84ae65fa7eafb165fddb61566ae14baf05664f0f"
   integrity sha1-hK5l+n6vsWX922FWauFLrwVmTw8=
 
-hi-pkg-scripts@^0.1.3:
-  version "0.1.3"
-  resolved "https://registry.npm.taobao.org/hi-pkg-scripts/download/hi-pkg-scripts-0.1.3.tgz#a1c2af97ac684e4d1403d8676c4c4d9e27c5e929"
-  integrity sha1-ocKvl6xoTk0UA9hnbExNnifF6Sk=
+hi-pkg-scripts@^0.2.0:
+  version "0.2.0"
+  resolved "https://registry.npm.taobao.org/hi-pkg-scripts/download/hi-pkg-scripts-0.2.0.tgz#274035f1b518eb9326159829fad16cdd64b1cfe4"
+  integrity sha1-J0A18bUY65MmFZgp+tFs3WSxz+Q=
   dependencies:
     chalk "^3.0.0"
     commander "^4.0.1"
